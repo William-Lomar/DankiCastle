@@ -1,0 +1,1 @@
+<iframe width="100%" height="800" allowFullScreen frameBorder="0" scrolling="no" src="https://coinbrain.com/embed/0xCC42724C6683B7E57334c4E856f4c9965ED682bD?theme=dark&chart=1&trades=1"></iframe>
