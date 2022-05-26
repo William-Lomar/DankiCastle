@@ -4,3 +4,5 @@ O objetivo da aplicação é utilizar um bot para acessar a carteira da metamask
 
 *Observações:
 Para execução do código é necessário pré-configurar o browser com os dados da metamask (os dados do browser ficam salvos após a execução numa pasta que pode ser selecionada no código) e ter uma database no formato (id,hora,proxima_hora,status)
+
+Exemplo do codigo em execução em: https://doublesix.com.br/exemplos/?video=bot_python.mp4
