@@ -8,6 +8,8 @@ Acredito que as falhas ocorriam devido ao Chromium (browser utilizado pelo dappe
 
 Como não foi possível atingir o objetivo por meio dessa aplicação foi realizado pesquisas de maneiras alternativas para realizar tal tarefa, sendo que uma solução efetiva foi a utilização de bots utilizando a biblioteca Selenium do python conforme pode-se observar no repositório a seguir: https://github.com/William-Lomar/DankiCastle/tree/main/bot_python
 
+Exemplo do projeto em execução em: https://doublesix.com.br/exemplos/?video=bot_node.mp4
+
 
 
 
